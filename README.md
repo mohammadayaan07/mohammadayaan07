@@ -1,4 +1,4 @@
-[![MasterHead](https://i.imgur.com/qKdq8bp.gif)]
+[![MasterHead](https://img.freepik.com/free-photo/young-man-working-home-with-laptop-freelance-concept_1057-44722.jpg?t=st=1720761187~exp=1720764787~hmac=edde46a652f189ba178bdb5d94bbeaf391c4416db81feba724aa9dfde5cb4596&w=740)]
 <h1 align="center">Hi 👋, I'm Mohammad Ayaan</h1>
 <h3 align="center">A passionate Python Developer and Data Analyst</h3>
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/69011963/137184767-79a13ec7-1bb3-4341-a6da-3a149c9c159a.gif">
@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/ayaanal93828533" target="blank"><img src="https://img.shields.io/twitter/follow/ayaanal93828533?logo=twitter&style=for-the-badge" alt="ayaanal93828533" /></a> </p>
 
-- 🌱 I’m currently learning **Advanced Python and Data Analysis**
+- 🌱 I’m currently advancing my skills in **Python development and Data Analysis**
 
 - 👨‍💻 All of my projects are available at [https://codebasics.io/portfolio/Mohammad-Ayaan-alam](https://codebasics.io/portfolio/Mohammad-Ayaan-alam)
 
