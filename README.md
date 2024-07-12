@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mohammad Ayaan</h1>
-<h3 align="center">A passionate Python Developer and Data Analyst</h3>
 
 <img alt="MasterHead" width="100%" style="max-height: 400px;" src="https://img.freepik.com/free-photo/young-man-working-home-with-laptop-freelance-concept_1057-44722.jpg?t=st=1720761187~exp=1720764787~hmac=edde46a652f189ba178bdb5d94bbeaf391c4416db81feba724aa9dfde5cb4596&w=740">
+<h3 align="center">A passionate Python Developer and Data Analyst</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mohammadayaan07" alt="mohammadayaan07" /></a> </p>
 
