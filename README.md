@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently advancing my skills in **Python development and Data Analysis**
 
-- 👨‍💻 All of my projects are available at [https://codebasics.io/portfolio/Mohammad-Ayaan-alam](https://codebasics.io/portfolio/Mohammad-Ayaan-alam)
+- 👨‍💻 All of my data Analyst projects  are available at [https://codebasics.io/portfolio/Mohammad-Ayaan-alam](https://codebasics.io/portfolio/Mohammad-Ayaan-alam)
 
 - 💬 Ask me about **Python, Django, and Data Analysis**
 
