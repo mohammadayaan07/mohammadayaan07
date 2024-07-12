@@ -1,4 +1,7 @@
-[![MasterHead](https://img.freepik.com/free-photo/young-man-working-home-with-laptop-freelance-concept_1057-44722.jpg?t=st=1720761187~exp=1720764787~hmac=edde46a652f189ba178bdb5d94bbeaf391c4416db81feba724aa9dfde5cb4596&w=740)]
+[![MasterHead](https://img.freepik.com/free-photo/young-man-working-home-with-laptop-freelance-concept_1057-44722.jpg?t=st=1720761187~exp=1720764787~hmac=edde46a652f189ba178bdb5d94bbeaf391c4416db81feba724aa9dfde5cb4596&w=740)](https://img.freepik.com/free-photo/young-man-working-home-with-laptop-freelance-concept_1057-44722.jpg?t=st=1720761187~exp=1720764787~hmac=edde46a652f189ba178bdb5d94bbeaf391c4416db81feba724aa9dfde5cb4596)
+
+<img alt="MasterHead" width="100%" src="https://img.freepik.com/free-photo/young-man-working-home-with-laptop-freelance-concept_1057-44722.jpg?t=st=1720761187~exp=1720764787~hmac=edde46a652f189ba178bdb5d94bbeaf391c4416db81feba724aa9dfde5cb4596&w=740">
+
 <h1 align="center">Hi 👋, I'm Mohammad Ayaan</h1>
 <h3 align="center">A passionate Python Developer and Data Analyst</h3>
 <img alt="Coding" width="100%" src="https://user-images.githubusercontent.com/69011963/137184767-79a13ec7-1bb3-4341-a6da-3a149c9c159a.gif">
